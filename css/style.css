@@ -6,6 +6,7 @@ html {
 
 body {
     line-height: 1.6rem;
+    color: white;
 }
 
 #topbar {
@@ -302,6 +303,10 @@ body {
     /* .sec3-item2 img {
         width: 300px;
     } */
+
+    .QRcode {
+        display: none;
+    }
 }
 
 /* -------------------------------------------------------------------------- */
@@ -318,6 +323,9 @@ body {
         display: flex;
         justify-content: space-around;
         align-items: flex-start;
+    }
+    .QRcode {
+        display: block;
     }
 }
 
