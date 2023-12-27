@@ -227,7 +227,7 @@ body {
 @media (min-width: 576px) {
 
     .container {
-        width: 90%;
+        width: 80%;
     }
 
     .section1_text {
@@ -296,7 +296,7 @@ body {
 /* -------------------------------------------------------------------------- */
 @media (min-width: 768px) {
     .container {
-        width: 90%;
+        width: 80%;
     }
 
     #section2 {
@@ -328,7 +328,7 @@ body {
 /* -------------------------------------------------------------------------- */
 @media (min-width: 992px) {
     .container {
-        width: 90%;
+        width: 80%;
     }
 
     .sec2-item {
