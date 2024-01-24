@@ -10,7 +10,6 @@ body {
     height: 100%;
 }
 
-
 .topbar *,
 .section-pri * {
     margin: 0;
@@ -29,6 +28,10 @@ h1 {
 
 h4 {
     padding-bottom: 30px;
+}
+
+h5 {
+    line-height: 150%;
 }
 
 
