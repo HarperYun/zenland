@@ -23,6 +23,14 @@ body {
     background-color: #0b3a50;
 }
 
+h1 {
+    padding-bottom: 20px;
+}
+
+h4 {
+    padding-bottom: 30px;
+}
+
 
 /* --------------------------------------------------------- */
 /* 隱私權頁專用 */
@@ -103,3 +111,5 @@ body {
     /* margin-bottom: 160px;  */
     /* 調整在RWD下的空間 */
 }
+
+
