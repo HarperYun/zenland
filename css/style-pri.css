@@ -37,8 +37,8 @@ body {
     left: 50%;
     color: #D0F2F8;
     transform: translateX(-50%);
-    padding-bottom: 180px;
-    /* margin-bottom: 180px; */
+    /* padding-bottom: 180px;
+    margin-bottom: 50px; */
 }
 
 .container-pri h4 {
@@ -63,7 +63,7 @@ body {
     height: auto;
     background-color: #0b3a50;
     position: relative;
-    
+    bottom: 0%;
 }
 
 
