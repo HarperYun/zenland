@@ -14,6 +14,7 @@ body {
     /* background-color: #07294080; */
     background-color: #0b3a50;
     position: absolute;
+    top: 0%;
     /* position: relative; */
     z-index: 2;
 }
@@ -62,7 +63,7 @@ body {
     height: auto;
     background-color: #0b3a50;
     position: relative;
-    display: block;
+    
 }
 
 
